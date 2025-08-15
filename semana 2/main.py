@@ -66,7 +66,7 @@ def plot(n: int) -> None:
     plt.ylabel('Função trigonométrica(x)')
     plt.grid(True)
     plt.legend()
-    plt.savefig("2/plot.png")  # Salva como imagem no ambiente
+    plt.savefig("semana 2/plot.png")  # Salva como imagem no ambiente
 
     print(f'x =\n{x}')
     print(f'y_sen =\n{y_sen}')
